@@ -3,9 +3,9 @@
 import sys
 
 def rock_paper_scissors(n):
-  # Your code here
+  
+  
 
-  pass
 
 
 if __name__ == "__main__":
